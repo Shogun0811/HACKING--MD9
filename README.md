@@ -1,10 +1,40 @@
 
+
+
 <h1 align="center"> HACKING MD SERVICE BOT WHATSAPP  </h1>
 <p align="center">  
 
+
+
+<html>
+   <body>
+      <p align="center">  
+         <a aria-label="FORK" href="https://github.com/HACKING995/HACKING--MD9/fork" target="_blank">
+            <img alt="License: GPL-3" src="https://img.shields.io/github/stars/HACKING995/HACKING--MD9?style=social" />
+         </a>
+         <a aria-label="Hacking_Md is free to use" href="https://youtube.com/@device.bot.thomas?si=_BI0XE8mvcMfGaY8" target="_blank">
+            <img alt="SuhailTechInfo" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" />
+         </a>
+         <a aria-label="Visiter mon site" href="https://premium-apk.newinformatique24.com/index.html/" target="_blank">
+            <img alt="Mon Site" src="https://img.shields.io/badge/Mon%20Site-Visit%20Now-brightgreen" />
+         </a>
+         <p align="center">
+            <img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="SuhailTechInfo :: Visitor's Count" />
+         </p>
+      </p>
+   </body>
+</html>
+
+
+
+
+
+
+
+
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HACKING LE ROBOT+RÉVOLUTIONNE;MULTI+SERVICE+WHATSAPP+BOT;CRÉER+PAR+THOMAS+TECH;BOT DATÉE+06.6.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=721c24&center=true&width=910&height=100&lines=HACKING LE ROBOT+RÉVOLUTIONNE;MULTI+SERVICE+WHATSAPP+BOT;CRÉER+PAR+THOMAS+TECH;BOT DATÉE+06.6.2024" alt="Typing SVG" /></a>
   </p>
     <img alt="HACKING-MD" width="700" height="300" src="https://telegra.ph/file/ac3a8142e8e18bcabb75b.jpg">
 <p align="center">
@@ -46,13 +76,79 @@
 
 3. ## OBTENEZ DES SESSIONS DE CE  BOT : <br>
   
-[**TOUTES SESSION ID**](https://rodhackgang.github.io/Service-/)  ; *TOUTES LES SESSIONS  SE TROUVENT ICI*
+[**TOUTES SESSION ID**](https://hacking995.github.io/SESSION-ID-WEBCAM.COM/)  ; *TOUTES LES SESSIONS  SE TROUVENT ICI*
  
 
 ## DEPLOYMENT 
 - **déploiement sur heroku**
   1. si vous ne disposez pas de compte **heroku** cliquez [**ici create**](https://id.heroku.com/login) pour vous en procurer un .
   2.  cliquez [**ici heroku**](https://dashboard.heroku.com/new?template=https://github.com/HACKING995/HACKING--MD9) pour deployer le bot sur **heroku**
+
+## *GIHUD  DÉPLOIEMENT*
+```name: Node.js CI
+
+on:
+
+push:
+
+branches:
+
+- main
+
+pull_request:
+
+branches:
+
+- main
+
+jobs:
+
+build:
+
+runs-on: ubuntu-latest
+
+strategy:
+
+matrix:
+
+node-version: [20.x]
+
+steps:
+
+- name: Checkout repository
+
+uses: actions/checkout@v3
+
+- name: Set up Node.js
+
+uses: actions/setup-node@v3
+
+with:
+
+node-version: ${{ matrix.node-version }}
+
+- name: Install dependencies
+
+run: npm install
+
+- name: Start application
+
+run: npm start
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - **Déploiement sur Koyeb**
   1. si vous n'avez pas de compte **koyeb** cliquez [**ici**](https://dashboard.koyeb.com/signup) pour vous en procurer un .
@@ -73,7 +169,13 @@ Profitez des fonctionnalités variées du Bot WhatsApp HACKING pour améliorer v
 
 
 ## Developpeur :
+
+<img alt="HACKING-MD" width="700" height="300" src="https://iili.io/2IycfGS.jpg">
+<p align="center">
+<p align="center">
+
+
  
   [**Thomas**](https://chat.whatsapp.com/CmrAOrFSBMi4eXW8xL5UHZ)<br>
-  [**᚛MD-HACKER ᚜**](https://wa.me/22588697148)
+  [**᚛MD-HACKER ᚜**](https://wa.me/2250507646665)
  
